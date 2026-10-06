@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Tushar Kumar Gupta
-**A passionate MERN Stack Developer**
+**A passionate Data Analyst**
 
 Email Me 👉 ✉️ **tusharkumargupta031106@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Ecommerce Website
-- 🌱 **I’m currently learning:** MERN Stack
+- 🔭 **I’m currently working on:** Building Data Science Skills
+- 🌱 **I’m currently learning:** Machine Learning
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** tusharkumargupta031106@gmail.com
 - 😄 **Pronouns:** Tushar
