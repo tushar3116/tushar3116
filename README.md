@@ -138,23 +138,6 @@ I enjoy combining Artificial Intelligence, Machine Learning, Generative AI, and 
 
 ---
 
-## 🚀 Featured Projects
-
-Here are some of the projects I'm building and exploring:
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🤖 Agentic AI System | Autonomous agents for real-world task automation | Python, LangChain, LangGraph |
-| 🧠 RAG Application | Document-based intelligent question-answering system | LLMs, Embeddings, Vector DB |
-| 📊 Data Science Project | Data analysis and predictive modeling | Python, Pandas, Scikit-learn |
-| ⚡ ML Prediction System | Machine Learning model for real-world predictions | Python, Scikit-learn |
-| 🔌 Python Backend API | Scalable backend with REST API integration | FastAPI, PostgreSQL |
-| 📈 Data Analytics Dashboard | Interactive dashboard and business insights | SQL, Power BI, Python |
-
-*Replace these examples with your actual project repositories and descriptions.*
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
