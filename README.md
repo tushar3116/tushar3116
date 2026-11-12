@@ -1,283 +1,254 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  AI ENGINEER PROFILE                   -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- =============== FUTURISTIC AI ENGINEER PROFILE =============== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,50:101B3D,100:00D9FF&text=HI,%20I'M%20TUSHAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20GENAI%20%7C%20AGENTIC%20AI&descAlignY=60&descSize=17" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+AI+Systems;Engineering+Autonomous+AI+Agents;Exploring+Generative+AI+%26+LLMs;Turning+Data+Into+Intelligence;Developing+Scalable+Python+Applications" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,30:12002E,70:082B4C,100:00E5FF&height=250&section=header&text=TUSHAR&fontSize=75&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=AI%20ENGINEER%20%7C%20AGENTIC%20AI%20%7C%20GENAI&descSize=18&descAlignY=62&descColor=00E5FF"/>
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=600&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=%3E+Initializing+AI+Engineer...;%3E+Building+Autonomous+AI+Agents...;%3E+Engineering+Intelligent+Systems...;%3E+Turning+Data+Into+Intelligence...;%3E+Welcome+To+My+Digital+Universe."/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%7C%20BUILDING-00E5FF?style=for-the-badge&labelColor=080018"/>
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-BD00FF?style=for-the-badge&labelColor=080018"/>
 
 </div>
 
 ---
 
-## `01` // WHO AM I?
+<div align="center">
+
+# `WHO AM I?`
+
+### `> AI ENGINEER IN THE MAKING`
+
+*Building the bridge between Artificial Intelligence and real-world applications.*
+
+</div>
 
 ```python
-class AIEngineer:
+class Tushar:
 
     def __init__(self):
-        self.name = "Tushar"
-        self.role = "Aspiring AI Engineer"
-        self.focus = [
+        self.identity = "Aspiring AI Engineer"
+
+        self.specializations = [
             "Generative AI",
             "Agentic AI",
-            "Artificial Intelligence",
             "Machine Learning",
+            "Deep Learning",
             "Data Science",
             "Data Analytics",
             "Python Backend Development"
         ]
 
-        self.mission = "Build intelligent solutions for real-world problems"
+        self.mindset = "Build. Experiment. Automate. Innovate."
 
-    def say_hi(self):
-        return "Welcome to my GitHub universe! 🚀"
+    def mission(self):
+        return "Create intelligent systems that solve real problems."
 
 
-me = AIEngineer()
-print(me.say_hi())
+developer = Tushar()
+print(developer.mission())
 ```
 
-I'm passionate about developing intelligent applications that combine AI, automation, data, and software engineering.
+<div align="center">
 
-- 🤖 Building AI-powered applications and autonomous agents.
-- 🧠 Exploring LLMs, RAG, and multi-agent architectures.
-- 📊 Transforming raw data into meaningful insights.
-- ⚡ Developing scalable Python applications and APIs.
-- 🚀 Continuously learning, experimenting, and building.
+### ⚡ THE TECH STACK
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,django&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,mysql,postgres,mongodb,redis&theme=dark"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&theme=dark"/>
+
+</div>
 
 ---
 
-## `02` // MY ENGINEERING DOMAINS
+## `01` — NEURAL NETWORK // CORE DOMAINS
 
-<table>
-<tr>
-<td width="50%">
+<details open>
+<summary>🧠 GENERATIVE AI ENGINEERING</summary>
 
-### 🤖 GENERATIVE AI
-
-- Large Language Models
+- Large Language Models (LLMs)
 - Prompt Engineering
-- Retrieval-Augmented Generation
-- Embeddings
+- Retrieval-Augmented Generation (RAG)
+- Embeddings & Semantic Search
 - Vector Databases
-- Semantic Search
-- LLM Evaluation
-- Fine-Tuning
+- Transformers & Hugging Face
+- Fine-Tuning & Quantization
+- LLM Evaluation and Optimization
 
-</td>
-<td width="50%">
+</details>
 
-### 🧩 AGENTIC AI
+<details open>
+<summary>🤖 AGENTIC AI ENGINEERING</summary>
 
 - Autonomous AI Agents
 - Multi-Agent Systems
-- LangChain
-- LangGraph
-- CrewAI
-- Tool Calling
-- MCP
-- Agent Memory
-- Workflow Automation
+- LangChain & LangGraph
+- CrewAI & AutoGen
+- Tool / Function Calling
+- Model Context Protocol (MCP)
+- Agent Memory & Planning
+- ReAct Architecture
+- Human-in-the-Loop
+- Agentic Workflow Automation
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</details>
 
-### 🧠 AI & MACHINE LEARNING
+<details>
+<summary>⚡ ARTIFICIAL INTELLIGENCE & MACHINE LEARNING</summary>
 
-- Supervised Learning
-- Unsupervised Learning
+- Supervised & Unsupervised Learning
 - Reinforcement Learning
-- Deep Learning
+- Regression & Classification
+- Clustering
+- Decision Trees & Random Forest
+- XGBoost
 - Neural Networks
 - CNN & RNN
+- Model Evaluation
+- Hyperparameter Tuning
 - Feature Engineering
-- Model Optimization
 
-</td>
-<td width="50%">
+</details>
 
-### 📊 DATA SCIENCE & ANALYTICS
+<details>
+<summary>📊 DATA SCIENCE & DATA ANALYTICS</summary>
 
+- Python, NumPy & Pandas
 - Exploratory Data Analysis
-- Statistical Analysis
-- Data Cleaning
-- Data Visualization
-- Predictive Analytics
+- Data Cleaning & Preprocessing
+- Probability & Statistics
 - Hypothesis Testing
-- Business Intelligence
-- Dashboard Development
+- Data Visualization
+- Matplotlib & Seaborn
+- SQL & Excel
+- Power BI & Tableau
+- Predictive Analytics
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</details>
 
-### 🐍 PYTHON BACKEND
+<details>
+<summary>🐍 PYTHON BACKEND ENGINEERING</summary>
 
-- Python
-- FastAPI
-- Flask
-- Django
-- REST APIs
+- Python & OOP
+- FastAPI, Flask & Django
+- REST API Development
 - JWT Authentication
 - API Integration
-- Backend Architecture
-
-</td>
-<td width="50%">
-
-### ☁️ ENGINEERING & DEPLOYMENT
-
-- Git & GitHub
-- Docker
-- Linux
-- AWS
-- CI/CD
-- PostgreSQL
-- MySQL
-- MongoDB
+- Async Programming
+- PostgreSQL, MySQL & MongoDB
 - Redis
+- Docker & Deployment
+- Testing & Debugging
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## `03` // TECHNOLOGY ARSENAL
+## `02` — TECHNICAL SKILL MATRIX
 
 <div align="center">
 
-### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,fastapi,flask,django,pytorch,tensorflow,sklearn&perline=6&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+<br/><br/>
 
-### Artificial Intelligence & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-
-### GenAI & Agentic AI
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CrewAI-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0078D4?style=for-the-badge"/>
-
-### Data Science & Analytics
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,mysql,postgres,mongodb,redis" />
-
-### Tools & Cloud
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman" />
+<img src="https://img.shields.io/badge/GENAI-LLMs%20%7C%20RAG%20%7C%20Transformers-00E5FF?style=for-the-badge&labelColor=080018"/>
+<br/>
+<img src="https://img.shields.io/badge/AGENTIC%20AI-LangChain%20%7C%20LangGraph%20%7C%20MCP-BD00FF?style=for-the-badge&labelColor=080018"/>
+<br/>
+<img src="https://img.shields.io/badge/DATA-Pandas%20%7C%20NumPy%20%7C%20SQL-00FF9C?style=for-the-badge&labelColor=080018"/>
+<br/>
+<img src="https://img.shields.io/badge/DEPLOYMENT-Docker%20%7C%20AWS%20%7C%20Linux-FFB000?style=for-the-badge&labelColor=080018"/>
 
 </div>
 
 ---
 
-## `04` // FEATURED PROJECTS
+## `03` — MISSION CONTROL // PROJECTS
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-### 🚀 What I Build
-
-| Project Category | What It Demonstrates |
+| PROJECT | ENGINEERING DOMAIN |
 |:---|:---|
-| 🤖 Agentic AI | Autonomous agents and intelligent workflows |
-| 🧠 Generative AI | LLM-powered applications and RAG systems |
-| 📊 Data Science | Predictive modeling and analytical insights |
-| ⚡ Machine Learning | End-to-end ML pipelines |
-| 🐍 Backend Engineering | REST APIs and scalable applications |
-| 📈 Data Analytics | Interactive dashboards and business intelligence |
+| 🤖 AI Automation Platform | Agentic AI |
+| 🧠 Intelligent RAG Assistant | Generative AI |
+| 📊 AI Data Analyst | Data Science |
+| ⚡ Predictive ML System | Machine Learning |
+| 🐍 Scalable REST API | Python Backend |
+| 📈 Business Intelligence Dashboard | Data Analytics |
 
-*Replace the example repository cards with your actual public projects.*
+</div>
+
+> Replace the project ideas with actual public repositories. Add the repository links and live demos when available.
 
 ---
 
-## `05` // GITHUB ANALYTICS
+## `04` — GITHUB TELEMETRY
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080018&title_color=00E5FF&icon_color=BD00FF&text_color=FFFFFF&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080018&title_color=00E5FF&text_color=FFFFFF"/>
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=080018&ring=00E5FF&fire=BD00FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA"/>
 
 </div>
 
 ---
 
-## `06` // CONTRIBUTION ACTIVITY
+## `05` — CONTRIBUTION FREQUENCY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=080018&color=00E5FF&line=BD00FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## `07` // CURRENTLY EXPLORING
+## `06` — CURRENT RESEARCH & LEARNING
 
 ```text
-[01] Advanced Agentic AI Architectures
-[02] Multi-Agent Collaboration
-[03] Advanced RAG & Graph RAG
-[04] LLM Fine-Tuning & Evaluation
-[05] Deep Learning with PyTorch
-[06] MLOps & Model Deployment
-[07] AWS & Cloud Engineering
-[08] Production-Ready AI Applications
+[ RUNNING ]  Advanced Agentic AI
+[ RUNNING ]  Multi-Agent Architectures
+[ RUNNING ]  Advanced RAG & Graph RAG
+[ RUNNING ]  LLM Fine-Tuning
+[ RUNNING ]  Deep Learning with PyTorch
+[ RUNNING ]  MLOps & Model Deployment
+[ RUNNING ]  AWS & Cloud Engineering
 ```
 
 ---
 
-## `08` // MY DEVELOPER PHILOSOPHY
-
 <div align="center">
 
-### "Think Intelligent. Build Autonomous. Create Impact."
+## `CONNECT TO MY NETWORK`
 
-**Code is the tool. Intelligence is the direction. Innovation is the mission.**
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D9FF,50:101B3D,100:050816&section=footer" width="100%"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=BD00FF"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=BD00FF&center=true&vCenter=true&width=650&lines=THE+FUTURE+IS+INTELLIGENT.;BUILDING+WHAT'S+NEXT...;THANKS+FOR+VISITING+MY+PROFILE."/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:12002E,100:050014&height=130&section=footer"/>
 
 </div>
